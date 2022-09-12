@@ -55,9 +55,8 @@ You can deploy this bot anywhere.
 <i>**[Watch Deploying Tutorial...](https://youtu.be/1G1XwEOnxxo)**</i>
 
 <details><summary>Deploy To Heroku</summary>
-<p>
-<br>
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MAJORTG2/Eva-marias)
+
+  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MAJORTG2/Eva-marias)
 </a>
 </p>
 </details>
