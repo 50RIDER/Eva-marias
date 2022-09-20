@@ -1,7 +1,7 @@
 <p align="center">
   </p>
 <h1 align="center">
-  <b>Eva Maria Bot</b>
+  <b>MERA BOT</b>
 </h1>
 
 
